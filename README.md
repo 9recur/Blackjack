@@ -1,7 +1,7 @@
 # Blackjack
-Recreated Blackjack on Desktop in Java.
+Recreated Blackjack on Desktop using Java.
 
-Simulates a Blackjack table, complete with virtual cards and an AI dealer. Compatible with any number of players.
+Simulates a Blackjack table, complete with virtual cards and an AI dealer. Compatible with any number of players. Project employs object-oriented programming and inheritance.
 
 Instructions:
 1) Download all .java files to the same directory
